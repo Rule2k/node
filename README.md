@@ -1,0 +1,1 @@
+First trys with node, before switching with a framework like express.
